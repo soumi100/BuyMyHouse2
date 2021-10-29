@@ -34,6 +34,15 @@ namespace BuyMyHouseAgenet
             await houseService.insertOrUpdateAsync(house);
             return req.CreateResponse(HttpStatusCode.Created);
         }
+        [Function("RemoveHouse")]
+        public async Task<HttpResponseData> RemoveHouse([HttpTrigger(AuthorizationLevel.Anonymous, "DELETE")] HttpRequestData req,
+           FunctionContext executionContext)
+        {
+            string partionKey = "x";
+            string rowKey = "x";
+            await houseService.DeleteEntityAsync(partionKey, rowKey);
+            return req.CreateResponse(HttpStatusCode.Created);
+        }
 
         [Function("GetHouses")]
         public async Task<HttpResponseData> GetHouses([HttpTrigger(AuthorizationLevel.Anonymous, "get")] HttpRequestData req,
