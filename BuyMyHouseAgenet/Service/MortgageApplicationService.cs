@@ -16,6 +16,7 @@ namespace BuyMyHouseAgenet.Service
 
             var apiKey = "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";
             client = new SendGridClient(apiKey);
+            // TODO replace later with the email address from the applicant
             var To = new EmailAddress("soumiaullrich@gmail.com", "soumia");
             var From = new EmailAddress("soumiaullrich@gmail.com", "soumia");
             var subject = $"New House Offer #{Guid.NewGuid()}";
