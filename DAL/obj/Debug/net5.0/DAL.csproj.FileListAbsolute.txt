@@ -1,0 +1,30 @@
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\Domain.dll
+C:\Users\Klaus\source\repos\DAL\bin\Debug\net5.0\Domain.pdb
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Klaus\source\repos\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\DAL.dll
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\Domain.dll
+C:\Github Projects\ByMyHouse2\DAL\bin\Debug\net5.0\Domain.pdb
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.dll
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Github Projects\ByMyHouse2\DAL\obj\Debug\net5.0\DAL.pdb
