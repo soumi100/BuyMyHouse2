@@ -48,8 +48,7 @@ namespace BuyMyHouseAgenet
         public async Task<HttpResponseData> GetHouses([HttpTrigger(AuthorizationLevel.Anonymous, "get")] HttpRequestData req,
           FunctionContext executionContext , [FromQuery] double minPrice, [FromQuery] double maxPrice)
         {
-            House house = new House("Haarlem", 38960000, 5);
-            await houseService.insertOrUpdateAsync(house);
+          
             return req.CreateResponse(HttpStatusCode.Created);
         }
 

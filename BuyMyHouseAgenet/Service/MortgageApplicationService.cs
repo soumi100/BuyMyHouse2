@@ -30,7 +30,6 @@ namespace BuyMyHouseAgenet.Service
             var HtmlContent = $"<p> {mortgageApplication.ApplicantInfo.ToString()} <br>" +
                 $" {mortgageApplication.HouseInfo.ToString()} </p> <br> Kind Regards <br> BuyMyHouseStateAgent";
             msg = MailHelper.CreateSingleEmail(From, To, subject, plainTextContent, HtmlContent);
-           // applicationService.PrepareOffer( out client, out msg);
         }
 
 
